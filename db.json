@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      "id": 3,
+      "id": 1,
+      "text": "praise da lord",
+      "day": "any time",
+      "reminder": false
+    },
+    {
+      "id": 2,
       "text": "take whats mine",
       "day": "all time",
       "reminder": true
-    },
-    {
-      "text": "praise da lord",
-      "day": "anytime",
-      "reminder": true,
-      "id": 4
     }
   ]
 }

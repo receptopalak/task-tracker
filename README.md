@@ -19,6 +19,7 @@ Live Demo : [HERE!](https://awesome-task-tracker.netlify.app/)
 - git clone https://github.com/AzeBilir/task-tracker
 
 ### `npm start`
+<img width="363" alt="4" src="https://user-images.githubusercontent.com/83697951/157022788-063a4a4b-66f4-4bca-a0ff-38710731552f.png">
 
 <img width="350" alt="1" src="https://user-images.githubusercontent.com/83697951/156903954-d6b89f3e-aa2e-4d7f-ab62-6c6bb0c260a0.png">
 
